@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="assignment2" type="lane_follow.py" name="lane_follow_node" output="screen" />
+</launch>
